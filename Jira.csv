@@ -1,0 +1,386 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Log Work,Log Work,Log Work,Log Work,Log Work,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Cloners),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Attachment,Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+Verify that the Wifi icon at the top of the page is accessible or not.,RE-125,10185,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,08/Sep/21 7:12 AM,08/Sep/21 7:19 AM,08/Sep/21 7:19 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-36,,,,,,,,,,,,{},,,,,,,0|i000z3:,,Real Estate Sprint,,,,,,,,In Progress
+Verify that the Google+ icon at the top of the page takes user to google+ login page.,RE-124,10184,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,08/Sep/21 7:10 AM,08/Sep/21 7:17 AM,09/Sep/21 5:07 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-123,RE-36,,,,,,,,,,,,{},,,,,,,0|i000yv:,,Real Estate Sprint,,,,,,,,In Progress
+Verify that the Twitter icon at the top of the page takes user to twitter login page.,RE-123,10183,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,08/Sep/21 7:08 AM,08/Sep/21 7:15 AM,08/Sep/21 7:15 AM,08/Sep/21 7:15 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-122,RE-36,,,,,,,,,,,,{},,,,,,,0|i000yn:,,Real Estate Sprint,,,,,,,,Done
+Verify that the Facebook icon at the top of the page takes user to facebook login page.,RE-122,10182,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,08/Sep/21 7:06 AM,08/Sep/21 7:15 AM,08/Sep/21 7:14 AM,08/Sep/21 7:15 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-36,,,,,,,,,,,,{},,,,,,,0|i000yf:,,Real Estate Sprint,,,,,,,,Done
+User is able to register even after entering more than 30 characters in Email field.,RE-121,10181,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 12:19 PM,07/Sep/21 12:26 PM,09/Sep/21 5:29 AM,,,0,"h3. The user is able to register even after entering more than 30 characters in the Email field.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the ‘Register’ tab.
+
+h3. 3. Enter an Email address with more than 30 characters.
+
+h3. Expected Result:
+
+h3. The user is not able to register after entering more than 30 characters in the Email field.
+
+h3. Actual Result:
+
+h3. The user is able to register even after entering more than 30 characters in the Email field.
+
+h3. Image where more than 30 characters are entered in the Email fields. 
+
+!email.png|width=1024,height=471!
+
+h3. Image showing registration successful.
+
+!email1.png|width=1024,height=466!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-113,RE-2,,,,,RE-113,,,07/Sep/21 12:24 PM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;email.png;https://corporateola27.atlassian.net/secure/attachment/10021/email.png,07/Sep/21 12:24 PM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;email1.png;https://corporateola27.atlassian.net/secure/attachment/10020/email1.png,,,,,,,,{},,,,,,,0|i000y7:,,Real Estate Sprint,,,,,,,,To Do
+User is able to register even after entering more than 100 characters in First/Last Name field.,RE-120,10180,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 12:01 PM,08/Sep/21 4:10 AM,09/Sep/21 5:29 AM,,,0,"h3. The user is able to register even after entering more than 100 characters in the First/Last Name field.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the ‘Register’ tab.
+
+h3. 3. Enter First and Last Name with more than 100 characters'
+
+h3. Expected Result:
+
+h3. The user is not able to register after entering more than 100 characters in the First/Last Name field.
+
+h3. Actual Result:
+
+h3. The user is able to register even after entering more than 100 characters in the First/Last Name field. 
+
+h3. Image where more than 100 characters are entered in the First and Last Name fields.
+
+!char.png|width=1024,height=464!
+
+h3.  Image after registration.
+
+!char1.png|width=1023,height=465!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-114,RE-2,RE-116,,,,RE-113,RE-116,,07/Sep/21 12:07 PM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;char.png;https://corporateola27.atlassian.net/secure/attachment/10019/char.png,07/Sep/21 12:07 PM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;char1.png;https://corporateola27.atlassian.net/secure/attachment/10018/char1.png,,,,,,,,{},,,,,,,0|i000xz:,,Real Estate Sprint,,,,,,,,To Do
+Verify 'Password' field with special characters.,RE-119,10177,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 11:12 AM,08/Sep/21 4:18 AM,09/Sep/21 5:29 AM,08/Sep/21 4:18 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-15,RE-3,,,,,,,,,,,,{},,,,,,,0|i000at:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Username' field with more than 100 characters.,RE-118,10176,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 11:08 AM,08/Sep/21 4:17 AM,09/Sep/21 5:29 AM,08/Sep/21 4:17 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-15,RE-3,,,,,,,,,,,,{},,,,,,,0|i000ar:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Last Name' field with null input.,RE-117,10175,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 11:06 AM,08/Sep/21 4:11 AM,09/Sep/21 5:29 AM,08/Sep/21 4:11 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-115,RE-2,,,,,,,,,,,,{},,,,,,,0|i000an:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Last Name' field with more than 100 characters.,RE-116,10174,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 11:05 AM,08/Sep/21 4:10 AM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-114,RE-2,,,,,,,,,,,,{},,,,,,,0|i000af:,,Real Estate Sprint,,,,,,,,In Progress
+Verify 'First Name' field with null input.,RE-115,10173,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 11:03 AM,08/Sep/21 4:03 AM,09/Sep/21 5:29 AM,08/Sep/21 4:03 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-10,RE-2,,,,,,,,,,,,{},,,,,,,0|i0009z:,,Real Estate Sprint,,,,,,,,Done
+Verify 'First Name' field with more than 100 characters.,RE-114,10172,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 11:01 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-113,RE-2,,,,,,,,,,,,{},,,,,,,0|i00094:,,Real Estate Sprint,,,,,,,,In Progress
+Verify 'Email' field with more than 30 characters.,RE-113,10171,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 10:57 AM,07/Sep/21 12:28 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-112,RE-2,,,,,,,,,,,,{},,,,,,,0|i00093:i,,Real Estate Sprint,,,,,,,,In Progress
+Verify 'Email' field with invalid format.,RE-112,10170,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 10:55 AM,07/Sep/21 12:28 PM,09/Sep/21 5:29 AM,07/Sep/21 12:17 PM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-7,RE-2,,,,,,,,,,,,{},,,,,,,0|i00093:,,Real Estate Sprint,,,,,,,,Done
+User does not get the LinkedIn login page after clicking on the LinkedIn icon in the 'Blogs' section.,RE-110,10168,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 9:18 AM,07/Sep/21 12:30 PM,09/Sep/21 5:29 AM,,,0,"h3. The user does not get the LinkedIn login page after clicking on the LinkedIn icon in the 'Blogs' section.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on ‘Blogs’ on top of the website.
+
+h3. 3. Click on the LinkedIn icon on that page.
+
+h3. Expected Results:
+
+h3. The user gets to the LinkedIn login page after clicking on the LinkedIn icon in the 'Blogs' section.
+
+h3. Actual Result:
+
+h3. The user does not get the LinkedIn login page after clicking on the LinkedIn icon in the 'Blogs' section.",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-36,,,,,,RE-46,,,,,,,,,,,,{},,,,,,,0|i00092:i,,Real Estate Sprint,,,,,,,,To Do
+User is able to register even after entering special characters in First/Last Name field.,RE-109,10167,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 8:51 AM,07/Sep/21 12:28 PM,09/Sep/21 5:29 AM,,,0,"h3. The user is able to register even after entering special characters in the First/Last Name field.
+
+h3. Steps to reproduce: 
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Go to the Register tab. 
+
+h3. 3. Enter only special characters in the First and Last Name fields. 
+
+h3. 4. Click on the ‘Register’ button.
+
+h3. Expected Results:
+
+h3. The user is not able to register after entering special characters in the First/Last Name field.
+
+h3. Actual Result:
+
+h3. The user is able to register even after entering special characters in the First/Last Name field. 
+
+h3. Image showing special characters in the First and Last Name field. 
+
+!special characters.png|width=1024,height=470!
+
+h3. Image showing registration is successful even after special characters had been entered in the First and Last Name fields.
+
+!special characters1.png|width=1024,height=467!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-2,RE-8,,,,,RE-8,RE-9,,07/Sep/21 8:59 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;special characters.png;https://corporateola27.atlassian.net/secure/attachment/10014/special+characters.png,07/Sep/21 8:59 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;special characters1.png;https://corporateola27.atlassian.net/secure/attachment/10015/special+characters1.png,,,,,,,,{},,,,,,,0|i00092:,,Real Estate Sprint,,,,,,,,To Do
+User is not automatically logged out of the website if screen is left idle for more than 30 minutes.,RE-108,10166,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 8:36 AM,07/Sep/21 12:30 PM,08/Sep/21 6:55 AM,,,0,"h3. The user is not automatically logged out of the website if the screen is left idle for more than 30 minutes.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Log in to the website.
+
+h3. Expected Results:
+
+h3. The user is automatically logged out of the website if the screen is left idle for more than 30 minutes.
+
+h3. Actual Result:
+
+h3. The user is not automatically logged out of the website if the screen is left idle for more than 30 minutes.",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-83,RE-81,,,,,RE-83,,,,,,,,,,,,{},,,,,,,0|i00091:x,,Real Estate Sprint,,,,,,,,To Do
+User is not able to access what follows when the wifi icon is clicked on the Real Estate page.,RE-107,10165,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 7:19 AM,08/Sep/21 7:19 AM,08/Sep/21 7:19 AM,,,0,"h3. The user is not able to access what follows when the wifi icon is clicked on the Real Estate page.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the wifi icon at the top/bottom of the website and access what comes next.
+
+h3. Expected Results:
+
+h3. The user can see access what follows when the wifi icon is clicked on the Real Estate page.
+
+h3. Actual Result:
+
+h3. The user is not able to access what follows when the wifi icon is clicked on the Real Estate page.
+
+!wifi.png|width=1024,height=468!
+
+!wifi1.png|width=1024,height=468!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-66,RE-125,,,,,RE-79,RE-125,,07/Sep/21 7:22 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;wifi.png;https://corporateola27.atlassian.net/secure/attachment/10012/wifi.png,07/Sep/21 7:22 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;wifi1.png;https://corporateola27.atlassian.net/secure/attachment/10013/wifi1.png,,,,,,,,{},,,,,,,0|i00091:v,,Real Estate Sprint,,,,,,,,To Do
+User is not able to send information in the Contact Us form.,RE-106,10164,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 6:15 AM,07/Sep/21 12:30 PM,09/Sep/21 5:29 AM,,,0,"h3. The user is not able to send information in the Contact Us form.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the 'Contact Us' link at the bottom of the page.
+
+h3. 3. Enter valid input in the 'Name' field in the Contact form.
+
+h3. 4. Enter valid input in the 'Email' field in the Contact form.
+
+h3. 5. Enter valid input in the 'Subject' field in the Contact form.
+
+h3. 6. Enter valid input in the 'Message' field in the Contact form. 
+
+h3. 7. Click on the ‘Send’ button.
+
+h3. Expected Results:
+
+h3. The user can send information to the team using the Contact Us form.
+
+h3. Actual Result:
+
+h3. The user is not able to send information in the Contact Us form.
+
+!send.png|width=1024,height=468!
+
+!send1.png|width=1022,height=468!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-64,RE-5,,,,,RE-64,,,07/Sep/21 6:20 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;send.png;https://corporateola27.atlassian.net/secure/attachment/10010/send.png,07/Sep/21 6:20 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;send1.png;https://corporateola27.atlassian.net/secure/attachment/10011/send1.png,,,,,,,,{},,,,,,,0|i00091:r,,Real Estate Sprint,,,,,,,,To Do
+"On clicking the Google+ icon, no page for logging in to google+ occurs.",RE-105,10163,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 5:46 AM,08/Sep/21 7:17 AM,08/Sep/21 7:17 AM,,,0,"h3. The user is not able to log in to google+ by clicking on the Google+ icon.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the Google+ icon.
+
+h3. 3. User moves to the google+ log-in page.
+
+h3. Expected Results:
+
+h3. The user can log in to google+ by clicking on the Google+ icon.
+
+h3. Actual Result:
+
+h3. The user is not able to log in to google+ by clicking on the Google+ icon.
+
+h3. Image showing Google+ icon at the bottom of the page.
+
+!google+.png|width=1024,height=467!
+
+h3.  Image after clicking the Google+ icon.
+
+!google+1.png|width=1024,height=463!
+
+
+
+h3. Image showing Google+ icon on the blogs page.
+
+!google+2.png|width=1024,height=463!
+
+h3.  Image after clicking the Google+ icon.
+
+!google+4.png|width=1021,height=469!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-66,RE-78,RE-45,RE-36,RE-124,,RE-78,RE-45,RE-124,07/Sep/21 6:05 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;google+.png;https://corporateola27.atlassian.net/secure/attachment/10008/google%2B.png,07/Sep/21 6:05 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;google+1.png;https://corporateola27.atlassian.net/secure/attachment/10009/google%2B1.png,07/Sep/21 9:45 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;google+2.png;https://corporateola27.atlassian.net/secure/attachment/10016/google%2B2.png,07/Sep/21 9:45 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;google+4.png;https://corporateola27.atlassian.net/secure/attachment/10017/google%2B4.png,,,,,,{},,,,,,,0|i00091:i,,Real Estate Sprint,,,,,,,,To Do
+"On the 'Real Estate' website, the search bar is not displayed properly.",RE-104,10162,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 4:50 AM,07/Sep/21 12:30 PM,09/Sep/21 5:29 AM,,,0,"h3. The user is not able to see the search bar properly on the ‘Real Estate’ website.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the 'Real Estate' link at the top of the website and get to that page.
+
+h3. 3. See the search bar.
+
+h3. Expected Results:
+
+h3. The user can see and use the search bar to search for properties.
+
+h3. Actual Result:
+
+h3. The search bar is not positioned properly.
+
+!search.png|width=1024,height=433!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-23,RE-4,,,,,,,,07/Sep/21 4:54 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;search.png;https://corporateola27.atlassian.net/secure/attachment/10007/search.png,,,,,,,,,{},,,,,,,0|i00091:e,,Real Estate Sprint,,,,,,,,To Do
+User is not able to use the email address given on the 'Contact Us' page to write an email to the Real Estate team.,RE-103,10161,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 4:38 AM,07/Sep/21 12:30 PM,09/Sep/21 5:29 AM,,,0,"h3. The user is not able to use the email address given on the 'Contact Us' page to write an email to the Real Estate team.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the 'Contact Us' link at the bottom of the website and get to that page.
+
+h3. 3. Click on the email address given on that page.
+
+h3. Expected Results:
+
+h3. The user can use that email address to write a mail to the Real Estate team.
+
+h3. Actual Result:
+
+h3. An error page is displayed after clicking on the email address.
+
+!email.png|width=1024,height=469!
+
+!email1.png|width=1024,height=469!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-51,RE-5,,,,,,,,07/Sep/21 4:42 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;email.png;https://corporateola27.atlassian.net/secure/attachment/10006/email.png,07/Sep/21 4:42 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;email1.png;https://corporateola27.atlassian.net/secure/attachment/10005/email1.png,,,,,,,,{},,,,,,,0|i00091:f,,Real Estate Sprint,,,,,,,,To Do
+User is not able to access the Web link of Real Estate on the 'Contact Us' page.,RE-102,10160,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,07/Sep/21 4:28 AM,07/Sep/21 12:30 PM,09/Sep/21 5:29 AM,,,0,"h3. The user is not able to use the web link given on the ‘Contact Us’ page.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Click on the 'Contact Us' link at the bottom of the website and get to that page.
+
+h3. 3. Click on the web link given on that page.
+
+h3. Expected Results:
+
+h3. The user can use that web link to see the website related to it.
+
+h3. Actual Result:
+
+h3. An error page is displayed after clicking on the web link.
+
+!web link.png|width=1024,height=468!
+
+!web link 1.png|width=1024,height=466!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-50,RE-5,,,,,RE-50,,,07/Sep/21 4:29 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;web link 1.png;https://corporateola27.atlassian.net/secure/attachment/10003/web+link+1.png,07/Sep/21 4:29 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;web link.png;https://corporateola27.atlassian.net/secure/attachment/10004/web+link.png,,,,,,,,{},,,,,,,0|i00091:d,,Real Estate Sprint,,,,,,,,To Do
+User is not able to find a list of properties in 'Browse Properties' section.,RE-101,10159,Bug,To Do,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 12:30 PM,07/Sep/21 12:30 PM,09/Sep/21 5:29 AM,,,0,"h3. ‘Browse Properties’ page is not displaying any properties.
+
+h3. Steps to reproduce:
+
+h3. 1. Go to the Real Estate website.
+
+h3. 2. Clicks on the 'Real Estate' link on top of the website and get to that page.
+
+h3. 3. Hover on the 'We help people and homes find each other' link and find a link named 'Browse Properties'.
+
+h3. 4. Click on ‘Browse Properties’ to find a list of properties.
+
+h3. Expected Results:
+
+h3. The user finds a list of properties after clicking on the ‘Browse properties’ link.
+
+h3. Actual Result:
+
+h3. An error page is displayed after clicking on ‘Browse Properties’.
+
+!Browse properties1.png|width=50%!
+
+!Browse properties.png|width=50%!",,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,RE-29,RE-4,,,,,RE-29,,,07/Sep/21 4:15 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;Browse properties.png;https://corporateola27.atlassian.net/secure/attachment/10001/Browse+properties.png,07/Sep/21 4:15 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;Browse properties1.png;https://corporateola27.atlassian.net/secure/attachment/10002/Browse+properties1.png,,,,,,,,{},,,,,,,0|i00091:9,,Real Estate Sprint,,,,,,,,To Do
+Verify that admin can update the information of the 'Compare Properties' page on the 'Real Estate' website.,RE-100,10158,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:56 AM,08/Sep/21 6:59 AM,08/Sep/21 6:59 AM,07/Sep/21 9:11 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-99,RE-84,,,,,,,,,,,,{},,,,,,,0|i000tj:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can update the information of the 'Contact Us' page on the 'Real Estate' website.,RE-99,10157,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:55 AM,08/Sep/21 6:59 AM,08/Sep/21 6:59 AM,07/Sep/21 9:54 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-98,RE-84,,,,,,,,,,,,{},,,,,,,0|i000tb:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can update the information of the 'About Us' page on the 'Real Estate' website.,RE-98,10156,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:54 AM,08/Sep/21 6:58 AM,08/Sep/21 6:58 AM,07/Sep/21 5:23 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-97,RE-84,,,,,,,,,,,,{},,,,,,,0|i000t3:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can update the information at the bottom of the page on the 'Real Estate' website.,RE-97,10155,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:53 AM,08/Sep/21 6:58 AM,08/Sep/21 6:58 AM,07/Sep/21 9:05 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-96,RE-84,,,,,,,,,,,,{},,,,,,,0|i000sv:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can update the phone number and email address at the top of the page on the 'Real Estate' website.,RE-96,10154,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:51 AM,08/Sep/21 6:58 AM,08/Sep/21 6:58 AM,07/Sep/21 6:38 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-94,RE-84,,,,,,,,,,,,{},,,,,,,0|i000sn:,,Real Estate Sprint,,,,,,,,Done
+Verify that user gets phone number and email address at the top of the 'Real Estate' website.,RE-95,10153,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:49 AM,08/Sep/21 4:33 AM,08/Sep/21 4:33 AM,07/Sep/21 6:11 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-47,RE-36,,,,,,,,,,,,{},,,,,,,0|i000sf:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can update the information on the 'Invest in Overseas' page on the 'Real Estate' website.,RE-94,10152,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:47 AM,08/Sep/21 6:58 AM,08/Sep/21 6:58 AM,07/Sep/21 6:26 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-93,RE-84,,,,,,,,,,,,{},,,,,,,0|i000s7:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can update the articles under the 'Realty News & Articles' section on the 'Real Estate' website.,RE-93,10151,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:45 AM,08/Sep/21 6:58 AM,08/Sep/21 6:58 AM,07/Sep/21 6:40 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-92,RE-84,,,,,,,,,,,,{},,,,,,,0|i000rz:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can update the clients' comments under the 'What Our Clients Say' section on the 'Real Estate' website.,RE-92,10150,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:42 AM,08/Sep/21 6:57 AM,08/Sep/21 6:57 AM,07/Sep/21 6:22 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-91,RE-84,,,,,,,,,,,,{},,,,,,,0|i000rr:,,Real Estate Sprint,,,,,,,,Done
+"Verify that admin can update the number of Listings for Sale, Clients, Builders, and Conversion on the 'Real Estate' website.",RE-91,10149,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:40 AM,08/Sep/21 6:57 AM,08/Sep/21 6:57 AM,07/Sep/21 9:16 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-90,RE-84,,,,,,,,,,,,{},,,,,,,0|i000rj:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can alter the data on the 'Legal' website under 'Real Estate'.,RE-90,10148,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:38 AM,08/Sep/21 6:57 AM,08/Sep/21 6:57 AM,07/Sep/21 9:55 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-89,RE-84,,,,,,,,,,,,{},,,,,,,0|i000rb:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can alter the data on the 'Interiors' website under 'Real Estate'.,RE-89,10147,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:37 AM,08/Sep/21 6:57 AM,08/Sep/21 6:57 AM,07/Sep/21 7:28 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-87,RE-84,,,,,,,,,,,,{},,,,,,,0|i000r3:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can alter the data on the 'Home Loan' website under 'Real Estate'.,RE-88,10146,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:36 AM,08/Sep/21 6:56 AM,08/Sep/21 6:56 AM,07/Sep/21 5:08 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-87,RE-84,,,,,,,,,,,,{},,,,,,,0|i000qv:,,Real Estate Sprint,,,,,,,,Done
+Verify that admin can alter the data on the 'Realty' website under 'Real Estate'.,RE-87,10145,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:34 AM,08/Sep/21 6:56 AM,08/Sep/21 6:56 AM,07/Sep/21 6:36 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-86,RE-84,,,,,,,,,,,,{},,,,,,,0|i000qn:,,Real Estate Sprint,,,,,,,,Done
+Verify that the admin can add properties in the 'Features Properties' section on the 'Real Estate' page.,RE-86,10144,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:31 AM,08/Sep/21 6:56 AM,08/Sep/21 6:56 AM,07/Sep/21 9:14 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-85,RE-84,,,,,,,,,,,,{},,,,,,,0|i000qf:,,Real Estate Sprint,,,,,,,,Done
+Verify that the admin can delete inappropriate blogs posted by the users.,RE-85,10143,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:25 AM,08/Sep/21 6:56 AM,08/Sep/21 6:56 AM,07/Sep/21 7:24 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-84,,,,,,,,,,,,{},,,,,,,0|i000q7:,,Real Estate Sprint,,,,,,,,Done
+"As an admin, I want to make necessary changes to the website, so that the website stays up-to-date.",RE-84,10142,Story,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:22 AM,08/Sep/21 6:59 AM,09/Sep/21 5:07 AM,08/Sep/21 6:59 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i00091:,,Real Estate Sprint,,,,,,,,Done
+Verify that the user automatically logs out of the website if screen is left idle for more than 15 minutes.,RE-83,10141,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:16 AM,07/Sep/21 12:29 PM,08/Sep/21 6:55 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-82,RE-81,,,,,,,,,,,,{},,,,,,,0|i0008w:,,Real Estate Sprint,,,,,,,,In Progress
+Verify that the user logs out of the website by clicking on 'Log Out'.,RE-82,10140,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:11 AM,08/Sep/21 6:55 AM,08/Sep/21 6:55 AM,07/Sep/21 5:18 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-81,,,,,,,,,,,,{},,,,,,,0|i000pr:,,Real Estate Sprint,,,,,,,,Done
+"As a user, I want to logout from the 'Real Estate' website so that my data is secured.",RE-81,10139,Story,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:06 AM,07/Sep/21 8:39 AM,08/Sep/21 6:55 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i0008r:,,Real Estate Sprint,,,,,,,,In Progress
+Verify that a button with upward arrow is placed at the bottom of page to take user to the top instantly.,RE-80,10138,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 11:00 AM,08/Sep/21 6:54 AM,08/Sep/21 6:54 AM,07/Sep/21 6:12 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-79,RE-66,,,,,,,,,,,,{},,,,,,,0|i000pj:,,Real Estate Sprint,,,,,,,,Done
+Verify that the Wifi icon at the bottom of the page is accessible or not.,RE-79,10137,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:59 AM,07/Sep/21 12:29 PM,08/Sep/21 7:14 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-77,RE-66,,,,,,,,,,,,{},,,,,,,0|i0008m:,,Real Estate Sprint,,,,,,,,In Progress
+Verify that the Google+ icon at the bottom of the page takes user to google+ login page.,RE-78,10136,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:56 AM,07/Sep/21 12:29 PM,08/Sep/21 6:24 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-77,RE-66,,,,,,,,,,,,{},,,,,,,0|i0008h:,,Real Estate Sprint,,,,,,,,In Progress
+Verify that the Twitter icon at the bottom of the page takes user to twitter login page.,RE-77,10135,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:55 AM,08/Sep/21 6:24 AM,08/Sep/21 6:24 AM,07/Sep/21 5:23 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-76,RE-66,,,,,,,,,,,,{},,,,,,,0|i000ov:,,Real Estate Sprint,,,,,,,,Done
+Verify that the Facebook icon at the bottom of the page takes user to facebook login page.,RE-76,10134,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:52 AM,08/Sep/21 4:36 AM,08/Sep/21 7:05 AM,07/Sep/21 9:50 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-43,RE-66,,,,,,,,,,,,{},,,,,,,0|i000on:,,Real Estate Sprint,,,,,,,,Done
+"Verify that the bottom of the page contains address, phone number and email address of the real estate team.",RE-75,10133,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:50 AM,08/Sep/21 4:35 AM,08/Sep/21 4:35 AM,07/Sep/21 9:01 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-72,RE-66,,,,,,,,,,,,{},,,,,,,0|i000of:,,Real Estate Sprint,,,,,,,,Done
+Verify that the user can check Other Properties and scroll through them on the 'Compare Properties' page.,RE-74,10132,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:47 AM,08/Sep/21 4:35 AM,08/Sep/21 4:35 AM,07/Sep/21 6:47 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-73,RE-66,,,,,,,,,,,,{},,,,,,,0|i000o7:,,Real Estate Sprint,,,,,,,,Done
+Verify that the 'Compare Properties' link lets the user compare different properties available for sale/rent.,RE-73,10131,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:44 AM,08/Sep/21 4:35 AM,08/Sep/21 4:35 AM,07/Sep/21 5:17 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-72,RE-66,,,,,,,,,,,,{},,,,,,,0|i000nz:,,Real Estate Sprint,,,,,,,,Done
+Verify that the 'Blogs' link gets the blogs posted on the website.,RE-72,10130,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:42 AM,08/Sep/21 4:34 AM,08/Sep/21 4:34 AM,07/Sep/21 6:09 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-71,RE-66,,,,,,,,,,,,{},,,,,,,0|i000nr:,,Real Estate Sprint,,,,,,,,Done
+Verify that the 'Contact Us' link gets the Contact Form.,RE-71,10129,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:40 AM,08/Sep/21 4:34 AM,08/Sep/21 4:34 AM,07/Sep/21 9:06 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-67,RE-66,,,,,,,,,,,,{},,,,,,,0|i000nj:,,Real Estate Sprint,,,,,,,,Done
+Verify that user is able to reset password after providing email address in 'Lost Your Password?' field.,RE-70,10128,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:38 AM,08/Sep/21 4:16 AM,09/Sep/21 5:29 AM,07/Sep/21 5:27 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-69,RE-3,,,,,,,,,,,,{},,,,,,,0|i000nb:,,Real Estate Sprint,,,,,,,,Done
+Verify that the 'Lost your password?' field asks for email id to send the password reset link.,RE-69,10127,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:29 AM,08/Sep/21 4:16 AM,09/Sep/21 5:29 AM,07/Sep/21 5:04 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-68,RE-3,,,,,,,,,,,,{},,,,,,,0|i000n3:,,Real Estate Sprint,,,,,,,,Done
+"Verify that if user checks the 'Remember Me' checkbox, there will be no need to login again.",RE-68,10126,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:25 AM,08/Sep/21 4:16 AM,09/Sep/21 5:29 AM,07/Sep/21 9:36 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-21,RE-3,,,,,,,,,,,,{},,,,,,,0|i000mv:,,Real Estate Sprint,,,,,,,,Done
+Verify that the 'About Us' link gives more information related to the 'Real Estate' website.,RE-67,10125,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:17 AM,08/Sep/21 4:34 AM,08/Sep/21 4:34 AM,07/Sep/21 9:12 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-66,,,,,,,,,,,,{},,,,,,,0|i000mn:,,Real Estate Sprint,,,,,,,,Done
+"As a user, I want to access other links on the bottom of the page, so that I can contact the team or get more information.",RE-66,10124,Story,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 10:04 AM,07/Sep/21 7:23 AM,08/Sep/21 7:19 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i00087:i,,Real Estate Sprint,,,,,,,,In Progress
+Verify the 'Send' button in Contact Form with valid input in each field.,RE-64,10122,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:57 AM,07/Sep/21 12:29 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-61,RE-5,,,,,,,,,,,,{},,,,,,,0|i00087:hx,,Real Estate Sprint,,,,,,,,In Progress
+Verify the 'Message' field in Contact Form with null input.,RE-63,10121,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:55 AM,08/Sep/21 4:26 AM,09/Sep/21 5:29 AM,07/Sep/21 9:09 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-59,RE-5,,,,,,,,,,,,{},,,,,,,0|i000lz:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Message' field in Contact Form with special characters only.,RE-62,10120,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:54 AM,08/Sep/21 4:26 AM,09/Sep/21 5:29 AM,07/Sep/21 9:48 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-60,RE-5,,,,,,,,,,,,{},,,,,,,0|i000lr:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Message' field in Contact Form with valid input.,RE-61,10119,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:53 AM,08/Sep/21 4:26 AM,09/Sep/21 5:29 AM,07/Sep/21 7:27 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-58,RE-5,,,,,,,,,,,,{},,,,,,,0|i000lj:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Subject' field in Contact Form with special characters.,RE-60,10118,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:52 AM,08/Sep/21 4:26 AM,09/Sep/21 5:29 AM,07/Sep/21 6:41 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-54,RE-5,,,,,,,,,,,,{},,,,,,,0|i000lb:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Subject' field in Contact Form with null input.,RE-59,10117,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:51 AM,08/Sep/21 4:25 AM,09/Sep/21 5:29 AM,07/Sep/21 5:18 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-53,RE-5,,,,,,,,,,,,{},,,,,,,0|i000l3:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Subject' field in Contact Form with valid input.,RE-58,10116,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:50 AM,08/Sep/21 4:25 AM,09/Sep/21 5:29 AM,07/Sep/21 8:46 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-52,RE-5,,,,,,,,,,,,{},,,,,,,0|i000kv:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Email' field in Contact Form with incorrect format.,RE-57,10115,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:49 AM,08/Sep/21 4:25 AM,09/Sep/21 5:29 AM,07/Sep/21 5:22 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-56,RE-5,,,,,,,,,,,,{},,,,,,,0|i000kn:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Email' field in Contact Form with null input.,RE-56,10114,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:36 AM,08/Sep/21 4:25 AM,09/Sep/21 5:29 AM,07/Sep/21 5:08 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-53,RE-5,,,,,,,,,,,,{},,,,,,,0|i000kf:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Email' field in Contact Form with valid input.,RE-55,10113,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:35 AM,09/Sep/21 5:26 AM,09/Sep/21 5:26 AM,07/Sep/21 5:06 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-52,RE-5,,,,,,,,,,,,{},,,,,,,0|i000k7:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Name' field in Contact Form with special characters.,RE-54,10112,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:32 AM,08/Sep/21 4:24 AM,09/Sep/21 5:29 AM,07/Sep/21 9:10 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-53,RE-5,,,,,,,,,,,,{},,,,,,,0|i000jz:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Name' field in Contact Form with null input.,RE-53,10111,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:31 AM,08/Sep/21 4:24 AM,09/Sep/21 5:29 AM,07/Sep/21 8:41 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-52,RE-5,,,,,,,,,,,,{},,,,,,,0|i000jr:,,Real Estate Sprint,,,,,,,,Done
+Verify the 'Name' field in Contact Form with valid input.,RE-52,10110,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:29 AM,08/Sep/21 4:24 AM,09/Sep/21 5:29 AM,07/Sep/21 5:13 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-48,RE-5,,,,,,,,,,,,{},,,,,,,0|i000jj:,,Real Estate Sprint,,,,,,,,Done
+Verify that Email Address of Real Estate on the 'Contact Us' page is working or not.,RE-51,10109,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:24 AM,07/Sep/21 12:29 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-50,RE-5,,,,,,,,,,,,{},,,,,,,0|i00087:hv,,Real Estate Sprint,,,,,,,,In Progress
+Verify that Web link of Real Estate on the 'Contact Us' page is accessible or not.,RE-50,10108,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:22 AM,07/Sep/21 12:29 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-49,RE-5,,,,,,,,,,,,{},,,,,,,0|i00087:hr,,Real Estate Sprint,,,,,,,,In Progress
+"Verify that user finds the Phone number, Web address and Email address of Real Estate on the 'Contact Us' page.",RE-49,10107,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:19 AM,08/Sep/21 4:23 AM,09/Sep/21 5:29 AM,07/Sep/21 9:08 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-48,RE-5,,,,,,,,,,,,{},,,,,,,0|i000iv:,,Real Estate Sprint,,,,,,,,Done
+Verify that user gets the office location with a map on clicking the 'Contact Us' link.,RE-48,10106,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:16 AM,08/Sep/21 4:23 AM,09/Sep/21 5:29 AM,07/Sep/21 7:24 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-5,,,,,,,,,,,,{},,,,,,,0|i000in:,,Real Estate Sprint,,,,,,,,Done
+Verify that the user scrolls within pages to see older blogs on the 'Blogs' page.,RE-47,10105,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:09 AM,08/Sep/21 4:33 AM,08/Sep/21 4:33 AM,07/Sep/21 9:49 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-41,RE-36,,,,,,,,,,,,{},,,,,,,0|i000if:,,Real Estate Sprint,,,,,,,,Done
+Verify that the LinkedIn icon on 'Blogs' page takes user to linkedin login page.,RE-46,10104,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:06 AM,07/Sep/21 12:28 PM,08/Sep/21 4:33 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-45,RE-36,,,,,,,,,,,,{},,,,,,,0|i00087:hi,,Real Estate Sprint,,,,,,,,In Progress
+Verify that the Google+ icon on 'Blogs' page takes user to google+ login page.,RE-45,10103,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:05 AM,07/Sep/21 12:28 PM,08/Sep/21 4:32 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-44,RE-36,,,,,,,,,,,,{},,,,,,,0|i00087:h,,Real Estate Sprint,,,,,,,,In Progress
+Verify that the Twitter icon on 'Blogs' page takes user to twitter login page.,RE-44,10102,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 9:03 AM,08/Sep/21 4:32 AM,08/Sep/21 4:32 AM,07/Sep/21 5:24 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-43,RE-36,,,,,,,,,,,,{},,,,,,,0|i000hr:,,Real Estate Sprint,,,,,,,,Done
+Verify that the Facebook icon on 'Blogs' page takes user to facebook login page.,RE-43,10101,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 8:57 AM,08/Sep/21 4:32 AM,08/Sep/21 4:32 AM,07/Sep/21 9:56 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-38,RE-36,,,,,,,,,,,,{},,,,,,,0|i000hj:,,Real Estate Sprint,,,,,,,,Done
+Verify that 'Drop us a line' on 'Blog' page takes user to Contact Us page.,RE-42,10100,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 8:54 AM,08/Sep/21 4:32 AM,08/Sep/21 4:32 AM,07/Sep/21 6:08 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-41,RE-36,,,,,,,,,,,,{},,,,,,,0|i000hb:,,Real Estate Sprint,,,,,,,,Done
+Verify that the user is able to search for properties in the search bar in the 'Blog' website.,RE-41,10099,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 8:45 AM,08/Sep/21 4:31 AM,08/Sep/21 4:31 AM,07/Sep/21 9:13 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-40,RE-36,,,,,,,,,,,,{},,,,,,,0|i000h3:,,Real Estate Sprint,,,,,,,,Done
+Verify user clicks on 'Read More' within any blog to get more information related to the blog.,RE-40,10098,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 8:30 AM,08/Sep/21 4:31 AM,08/Sep/21 4:31 AM,07/Sep/21 9:15 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-38,RE-36,,,,,,,,,,,,{},,,,,,,0|i000gv:,,Real Estate Sprint,,,,,,,,Done
+"Verify each blog has the content, number of comments, posting date and posting person's username.",RE-39,10097,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 7:26 AM,08/Sep/21 4:31 AM,09/Sep/21 5:29 AM,07/Sep/21 5:15 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-38,RE-36,,,,,,,,,,,,{},,,,,,,0|i000gn:,,Real Estate Sprint,,,,,,,,Done
+Verify user can see blogs on clicking 'Blogs' section.,RE-38,10096,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 7:20 AM,08/Sep/21 4:31 AM,09/Sep/21 5:29 AM,07/Sep/21 9:03 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-37,RE-36,,,,,,,,,,,,{},,,,,,,0|i000gf:,,Real Estate Sprint,,,,,,,,Done
+Verify user gets more information in 'Invest in Overseas' section.,RE-37,10095,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 5:02 AM,08/Sep/21 4:31 AM,09/Sep/21 5:29 AM,07/Sep/21 9:01 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-36,,,,,,,,,,,,{},,,,,,,0|i000g7:,,Real Estate Sprint,,,,,,,,Done
+"As a user, I want to access other links on top of the page, so that I can get more information.",RE-36,10094,Story,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 4:58 AM,08/Sep/21 7:12 AM,08/Sep/21 7:19 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i00087:fi,,Real Estate Sprint,,,,,,,,In Progress
+Verify that user clicks on any Realty News & Article on the 'Real Estate' page and finds more information about it.,RE-35,10093,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 4:54 AM,08/Sep/21 4:21 AM,09/Sep/21 5:29 AM,07/Sep/21 6:39 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-34,RE-4,,,,,,,,,,,,{},,,,,,,0|i000fr:,,Real Estate Sprint,,,,,,,,Done
+Verify that user finds 'Realty News & Articles' on the 'Real Estate' page and scrolls through them.,RE-34,10092,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 4:28 AM,08/Sep/21 4:21 AM,09/Sep/21 5:29 AM,07/Sep/21 8:47 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-33,RE-4,,,,,,,,,,,,{},,,,,,,0|i000fj:,,Real Estate Sprint,,,,,,,,Done
+Verify that the 'Real Estate' link shows clients' comments under 'What our clients say' and the user scrolls through them.,RE-33,10091,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 4:25 AM,08/Sep/21 4:21 AM,09/Sep/21 5:29 AM,07/Sep/21 6:37 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-22,RE-4,,,,,,,,,,,,{},,,,,,,0|i000fb:,,Real Estate Sprint,,,,,,,,Done
+Verify user access a link named 'Share details' when hovering on 'Property Management' in the 'Real Estate' page.,RE-31,10089,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 4:12 AM,08/Sep/21 4:21 AM,09/Sep/21 5:29 AM,07/Sep/21 9:02 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-29,RE-4,,,,,,,,,,,,{},,,,,,,0|i000ev:,,Real Estate Sprint,,,,,,,,Done
+Verify user access a link named 'Browse Properties' when hovering on 'We help people and homes find each other' in the 'Real Estate' page.,RE-29,10087,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,06/Sep/21 4:02 AM,07/Sep/21 12:28 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-27,RE-4,,,,,,,,,,,,{},,,,,,,0|i00087:fhv,,Real Estate Sprint,,,,,,,,In Progress
+"Verify user gets number of 'Listings For Sale', 'Clients', 'Builders', 'Conversion' on 'Real Estate' page.",RE-28,10086,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 9:39 AM,08/Sep/21 4:20 AM,09/Sep/21 5:29 AM,07/Sep/21 9:55 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-27,RE-4,,,,,,,,,,,,{},,,,,,,0|i000e7:,,Real Estate Sprint,,,,,,,,Done
+Verify user gets legal information with 'Legal' option on 'Real Estate' page.,RE-27,10085,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 9:34 AM,08/Sep/21 4:20 AM,09/Sep/21 5:29 AM,07/Sep/21 6:46 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-26,RE-4,,,,,,,,,,,,{},,,,,,,0|i000dz:,,Real Estate Sprint,,,,,,,,Done
+Verify user gets information on interiors with 'Interiors' option on 'Real Estate' page.,RE-26,10084,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 9:33 AM,08/Sep/21 4:20 AM,09/Sep/21 5:29 AM,07/Sep/21 8:43 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-25,RE-4,,,,,,,,,,,,{},,,,,,,0|i000dr:,,Real Estate Sprint,,,,,,,,Done
+Verify user gets information on home loan with 'Home Loan' option on 'Real Estate' page.,RE-25,10083,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 9:27 AM,08/Sep/21 4:20 AM,09/Sep/21 5:29 AM,07/Sep/21 9:59 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-24,RE-4,,,,,,,,,,,,{},,,,,,,0|i000dj:,,Real Estate Sprint,,,,,,,,Done
+Verify user gets information on realty with 'Realty' option on 'Real Estate' page.,RE-24,10082,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 9:25 AM,08/Sep/21 4:19 AM,09/Sep/21 5:29 AM,07/Sep/21 9:11 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-23,RE-4,,,,,,,,,,,,{},,,,,,,0|i000db:,,Real Estate Sprint,,,,,,,,Done
+Verify that 'Real Estate' link shows a search bar for featured properties.,RE-23,10081,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 9:22 AM,07/Sep/21 12:28 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-22,RE-4,,,,,,,,,,,,{},,,,,,,0|i00087:fhr,,Real Estate Sprint,,,,,,,,In Progress
+Verify that 'Real Estate' link shows featured properties.,RE-22,10080,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 7:11 AM,08/Sep/21 4:18 AM,09/Sep/21 5:29 AM,07/Sep/21 9:14 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-4,,,,,,,,,,,,{},,,,,,,0|i000cv:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Password' field with null input.,RE-21,10079,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 7:05 AM,08/Sep/21 4:15 AM,09/Sep/21 5:29 AM,07/Sep/21 6:38 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-20,RE-3,,,,,,,,,,,,{},,,,,,,0|i000cn:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Username' field with null input.,RE-20,10078,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 7:04 AM,08/Sep/21 4:15 AM,09/Sep/21 5:29 AM,07/Sep/21 5:14 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-14,RE-3,,,,,,,,,,,,{},,,,,,,0|i000cf:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Email' field with special characters only.,RE-19,10077,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 4:36 AM,07/Sep/21 12:28 PM,09/Sep/21 5:29 AM,07/Sep/21 5:19 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-7,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:fhi,,Real Estate Sprint,,,,,,,,Done
+Verify 'Email' field with valid input.,RE-18,10076,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,03/Sep/21 4:29 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,07/Sep/21 9:23 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-10,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:fh,,Real Estate Sprint,,,,,,,,Done
+Verify 'Password' field with alphabets only.,RE-17,10075,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 10:50 AM,08/Sep/21 4:15 AM,09/Sep/21 5:29 AM,07/Sep/21 5:15 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-15,RE-3,,,,,,,,,,,,{},,,,,,,0|i000br:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Password' field with valid input.,RE-16,10074,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 10:49 AM,08/Sep/21 4:14 AM,09/Sep/21 5:29 AM,07/Sep/21 6:25 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-14,RE-3,,,,,,,,,,,,{},,,,,,,0|i000bj:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Username' field with special characters.,RE-15,10073,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 10:47 AM,08/Sep/21 4:14 AM,09/Sep/21 5:29 AM,07/Sep/21 6:35 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-14,RE-3,,,,,,,,,,,,{},,,,,,,0|i000bb:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Username' field with valid input.,RE-14,10072,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 10:46 AM,08/Sep/21 4:14 AM,09/Sep/21 5:29 AM,07/Sep/21 9:23 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-13,RE-3,,,,,,,,,,,,{},,,,,,,0|i000b3:,,Real Estate Sprint,,,,,,,,Done
+Verify clicking 'Login' button with valid input in all fields.,RE-13,10071,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 10:30 AM,08/Sep/21 4:13 AM,09/Sep/21 5:29 AM,07/Sep/21 5:04 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-3,,,,,,,,,,,,{},,,,,,,0|i000av:,,Real Estate Sprint,,,,,,,,Done
+Verify 'Last Name' field with valid input.,RE-12,10070,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 10:21 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,07/Sep/21 6:48 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-11,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:fg,,Real Estate Sprint,,,,,,,,Done
+Verify 'First Name' field with valid input.,RE-11,10069,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 10:20 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,07/Sep/21 6:24 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-7,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:ff,,Real Estate Sprint,,,,,,,,Done
+Verify 'Email' field with null input.,RE-10,10068,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 9:53 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,07/Sep/21 8:48 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-7,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:fc,,Real Estate Sprint,,,,,,,,Done
+Verify 'Last Name' field with special characters.,RE-9,10067,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 9:41 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-8,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:f6,,Real Estate Sprint,,,,,,,,In Progress
+Verify 'First Name' field with special characters.,RE-8,10066,Test,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 9:38 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,RE-6,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:f4,,Real Estate Sprint,,,,,,,,In Progress
+Verify 'Email' field with alphabets only.,RE-7,10065,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 9:29 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,07/Sep/21 5:09 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:f3i,,Real Estate Sprint,,,,,,,,Done
+Verify clicking 'Register' button with valid input in all fields.,RE-6,10064,Test,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 9:16 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,07/Sep/21 5:20 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,RE-2,,,,,,,,,,,,{},,,,,,,0|i00087:f3,,Real Estate Sprint,,,,,,,,Done
+"As a user, I want to click on the 'Contact Us' link provided at the bottom of the webpage, so that I can contact the team.",RE-5,10063,Story,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 8:46 AM,07/Sep/21 12:27 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i00087:f2,,Real Estate Sprint,,,,,,,,In Progress
+"As a user, I want to access the 'Real Estate' link on top of the page, so that I can get more information.",RE-4,10062,Story,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 8:43 AM,07/Sep/21 5:11 AM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i00087:f,,Real Estate Sprint,,,,,,,,In Progress
+"As a user, I want to enter my details and log in to the website, so that I can access my profile.",RE-3,10061,Story,Done,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,Done,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 8:42 AM,08/Sep/21 4:18 AM,09/Sep/21 5:29 AM,08/Sep/21 4:18 AM,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i00087:d,,Real Estate Sprint,,,,,,,,Done
+"As a user, I want to register on the website, so that my profile will be created.",RE-2,10060,Story,Blocked By,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 8:41 AM,07/Sep/21 12:26 PM,09/Sep/21 5:29 AM,,,0,,,Sanchi Gupta,612ef7d4b7859000710af384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{},,RE-1,,,,,0|i00087:9,,Real Estate Sprint,,,,,,,,In Progress
+Login and Register Page,RE-1,10059,Epic,In Progress,RE,Real Estate,software,Sanchi Gupta,612ef7d4b7859000710af384,,Medium,,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,Sanchi Gupta,612ef7d4b7859000710af384,02/Sep/21 6:34 AM,08/Sep/21 7:00 AM,09/Sep/21 5:26 AM,,,0,This is an epic for Login and Register Page.,,Sanchi Gupta,612ef7d4b7859000710af384,;07/Sep/21 12:12 PM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;172800,;08/Sep/21 3:39 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;172800,;08/Sep/21 3:41 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;172800,;08/Sep/21 3:42 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;172800,;08/Sep/21 3:43 AM;ug:040265ae-2042-47b9-801c-1ba4f87751fd;0,,0,691200,,,0,691200,,,,,,,,,,,,,,,,,,,,{},ghx-label-7,,Login and Register Page,To Do,,,0|i00087:,,Real Estate Sprint,,,,,,,,In Progress
